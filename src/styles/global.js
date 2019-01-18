@@ -7,4 +7,9 @@ export const GlobalStyle = createGlobalStyle`
       box-sizing: border-box;
       outline: none;
   }
+  
+  body {
+      background: #dff9fb;
+      font-family: 'Pacifico', cursive, sans-serif;
+  }
 `

@@ -1,6 +1,7 @@
 {
-  "name": "redux-starter",
-  "version": "0.1.0",
+  "name": "react-redux-saga-styled-reactotron-starter",
+  "author": "Bruno Carpinelli", 
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
